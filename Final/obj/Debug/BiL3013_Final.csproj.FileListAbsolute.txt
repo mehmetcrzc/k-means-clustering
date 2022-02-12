@@ -1,0 +1,11 @@
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\bin\Debug\BiL3013_Final.exe.config
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\bin\Debug\BiL3013_Final.exe
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\bin\Debug\BiL3013_Final.pdb
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.Properties.Resources.resources
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.csproj.GenerateResource.cache
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.exe
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.pdb
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.Form1.resources
+C:\Users\MONSTER\source\repos\BiL3013_Final\BiL3013_Final\obj\Debug\BiL3013_Final.Form2.resources
